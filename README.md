@@ -9,25 +9,22 @@ alert("This image is copyrighted!");
 return false;
 }
 
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 // Detta ligger sen på img src:
 onmousedown="alert('This image is copyrighted!'); return false;" 
 
-
-
-
-
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 // Like knapp //
 
 function myFunctions(x) {
 	 x.classList.toggle("fa-thumbs-down");
 	}
-  
-  
-  
-  
- 
- 
- // Login script - http://www.monsterankan.se/javascript/2loginsida.html //
+	
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+// Login script - http://www.monsterankan.se/javascript/2loginsida.html //
 
 function password() {
 
@@ -46,4 +43,6 @@ document.getElementById("myAnswer").innerHTML = "Username or Password is wrong. 
 }
 }
 
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
