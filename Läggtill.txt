@@ -1,0 +1,1 @@
+lägg till extra js funktion, t.ex. chat
